@@ -1,0 +1,15 @@
+._first>div>div {
+    color: aqua;
+}
+
+div h {
+    color: brown;
+}
+
+h2~p {
+    color: green;
+}
+
+.zak>div+h2 {
+    color: red;
+}

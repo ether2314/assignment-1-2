@@ -1,0 +1,13 @@
+.main-header {
+    padding: 0px 16px;
+    background: black;
+}
+
+.main-nav__item {
+    display: inline-block;
+    font-size: 30px;
+    padding: 0px 30px;
+    font-family: fantasy;
+    font-style: italic;
+    text-decoration: none;
+}
